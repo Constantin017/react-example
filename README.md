@@ -1,4 +1,5 @@
-![React Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/react.svg)
+<p align="center"><img width="400" src="https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/react.svg" alt="React Logo"></p>
+
 
 # React Example
 
