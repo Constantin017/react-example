@@ -1,4 +1,4 @@
-<p align="center"><img width="400" src="https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/react.svg" alt="React Logo"></p>
+<p align="center"><img width="400" src="https://raw.githubusercontent.com/vercel/vercel/4980fe65138fb1912b9bf8394e8d1d4da319c178/packages/frameworks/logos/react.svg" alt="React Logo"></p>
 
 
 # React Example
